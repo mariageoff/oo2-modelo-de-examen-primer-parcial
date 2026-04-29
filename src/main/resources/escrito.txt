@@ -1,0 +1,4 @@
+CABECERA
+texto del escrito
+[MARCA DE AGUA]
+PIE DE PAGINA
